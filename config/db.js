@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const db = `mongodb+srv://monika:monika@testingnodemongodb.5qvsm.mongodb.net/?retryWrites=true&w=majority&appName=TestingNodeMongodb`;
+const db = `mongodb+srv://monika:monika@testingnodemongodb.5qvsm.mongodb.net/?retryWrites=true&w=majority&appName=URLShorterner`;
 
 
 const connectDB = async () => {
